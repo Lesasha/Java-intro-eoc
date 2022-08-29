@@ -13,8 +13,9 @@ public class AppTest
      * Rigorous Test :-)
      */
     @Test
-    public void shouldAnswerWithTrue()
+    public void carType()
     {
+        Car Lexus = new car()
         assertTrue( true );
     }
 }
